@@ -166,6 +166,7 @@ for language, text in TEXT.items():
 <main>
 <h2>Apps</h2>
 <ul>
+<li><a href="/zuneyra/">Zuneyra</a>: your personal offline music collection</li>
 <li><a href="/screenshoteasy/">ScreenshotEasy</a>: capture, annotate, pin, and recognize text on your Mac</li>
 </ul>
 <footer>{COPYRIGHT}</footer>
